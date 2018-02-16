@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Carros Kotlin</string>
+    <string name="app_name">Carros Java</string>
     <!-- A -->
     <string name="action_about">Sobre</string>
     <string name="action_settings">Settings</string>

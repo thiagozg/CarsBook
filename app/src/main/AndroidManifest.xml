@@ -26,7 +26,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".activity.MainActivity"
+            android:name=".javaclass.JMainActivity"
             android:theme="@style/AppTheme.NavDrawer"
             android:launchMode="singleTop"> <!-- evitando que recrie a activity a partir do UpNavigation -->
             <intent-filter>
